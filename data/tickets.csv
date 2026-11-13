@@ -1,0 +1,31 @@
+ticket_id,ticket_text,expected_category
+T001,App crashes when I click the export button. This started after yesterday's update.,bug
+T002,I was charged twice for my monthly subscription. Please check the duplicate payment.,billing
+T003,Can you add dark mode to the dashboard?,feature request
+T004,How do I reset my account password?,question
+T005,The invoice download link gives a 404 error.,bug
+T006,Please explain the difference between the Basic and Pro plans.,question
+T007,My card was charged but my account still shows the free plan. I need this fixed today.,billing
+T008,It would be useful to export reports directly to Excel.,feature request
+T009,Where can I update the email address on my profile?,question
+T010,The mobile app freezes on the login screen for every user in our team.,bug
+T011,I don't recognize this charge on my account and suspect unauthorized billing.,billing
+T012,Can we have a way to invite multiple teammates at once?,feature request
+T013,What file formats are supported for document uploads?,question
+T014,Search returns no results even when the exact customer name exists.,bug
+T015,Please cancel my subscription and confirm whether I will receive a refund.,billing
+T016,Could you add keyboard shortcuts for common actions?,feature request
+T017,Do you offer onboarding sessions for new customers?,question
+T018,Our workspace is inaccessible and we have a customer demo in one hour.,bug
+T019,I need a copy of last year's invoices for accounting.,billing
+T020,The page takes around 40 seconds to load after signing in.,bug
+T021,Can the dashboard show weekly activity alongside monthly activity?,feature request
+T022,How can I change the time zone used in reports?,question
+T023,I received an invoice for a plan we never selected. Please investigate.,billing
+T024,"The save button appears to work, but my changes disappear when I reopen the page.",bug
+T025,Can you integrate the product with our internal ticketing platform?,feature request
+T026,I am not sure which account was billed. The charge is 249 and the description is abbreviated.,other
+T027,Please help. Nothing is working and this is affecting our business.,other
+T028,Can I download all my data before closing my account?,question
+T029,"We need to change the billing owner, but the current owner has left the company.",billing
+T030,The notification settings are confusing. I cannot tell which alerts are enabled.,other

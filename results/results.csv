@@ -1,0 +1,31 @@
+ticket_id,category,priority,priority_reason,confidence,reply_draft,escalate_to_human,escalation_reason,input_tokens,output_tokens,thinking_tokens
+T001,bug,high,A core feature is broken for the user after a recent update.,0.95,,False,,395,59,0
+T002,billing,high,A billing error affects customer funds.,0.95,,False,,393,53,0
+T003,feature_request,low,This is a general feature idea rather than a bug or urgent issue.,0.95,,False,,387,62,0
+T004,question,low,This is a general how-to question regarding account access.,0.95,"To reset your account password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email address.",False,,386,86,0
+T005,billing,medium,"A billing-related feature is broken, but it does not prevent core product usage.",0.9,,False,,390,62,0
+T006,question,low,This is a general inquiry about product plans that does not affect current operations.,0.95,"Hello! The Basic plan offers essential features for individuals getting started, while the Pro plan includes advanced tools and higher limits for professionals and growing teams. You can view a full feature comparison on our pricing page.",False,,389,102,0
+T007,billing,high,A billing error is directly affecting the customer's financial transaction and account access.,0.95,,False,,397,50,0
+T008,feature_request,low,This is a suggestion for a new feature rather than a critical issue.,0.95,,False,,389,62,0
+T009,question,low,This is a general how-to question regarding account settings.,0.95,Hello! You can update your email address by navigating to your Account Settings page and editing your profile information.,False,,389,79,0
+T010,bug,urgent,The entire team is blocked from using the mobile app due to freezing on the login screen.,0.95,,False,,393,52,0
+T011,billing,high,A billing error potentially affects money and unauthorized charges require immediate attention.,0.95,,True,"sensitive topic: unauthorized, don't recognize",393,48,0
+T012,feature_request,low,This is a suggestion for a new product feature.,0.95,,False,,390,58,0
+T013,question,low,"This is a general, low-impact inquiry about product functionality.",0.95,"Hello! We currently support PDF, DOCX, TXT, and PNG formats for document uploads. Please let us know if you have any other questions!",False,,387,90,0
+T014,bug,high,A core search feature is broken and preventing users from finding existing customer data.,0.95,,False,,390,49,0
+T015,billing,medium,Billing and subscription cancellations require timely attention.,0.95,,True,sensitive topic: refund,391,54,0
+T016,feature_request,low,This is a general suggestion for a new feature rather than an urgent issue.,0.95,,False,,387,63,0
+T017,question,low,This is a general inquiry about customer onboarding services.,0.95,"Hello! Thank you for reaching out. Yes, we do offer onboarding sessions for new customers to help you get started. Please let us know if you would like to schedule one and our team will be happy to assist you.",False,,387,102,0
+T018,bug,urgent,The customer cannot access their workspace at all right before a critical demo.,0.95,,False,,392,60,0
+T019,billing,low,This is a general request for historical invoices with no immediate urgency.,0.95,,False,,391,59,0
+T020,bug,medium,"A core action is severely delayed, but there is a workaround since it eventually loads.",0.85,,False,,392,63,0
+T021,feature_request,low,This is a request for a new feature rather than an urgent issue or bug.,0.95,,False,,388,64,0
+T022,question,low,This is a general how-to question regarding account settings.,0.95,"Hello! To change the time zone used in your reports, navigate to your Account Settings, select the Preferences tab, and update your preferred time zone there. Please let us know if you need any further assistance!",False,,389,88,0
+T023,billing,high,A billing error is affecting charges for an unselected plan.,0.95,,False,,392,58,0
+T024,bug,high,A core feature is broken since user changes are not saving.,0.95,,False,,395,58,0
+T025,feature_request,low,"The user is asking for a new integration, which falls under general feature ideas.",0.95,,False,,389,64,0
+T026,billing,medium,The customer has an unresolved billing inquiry regarding an unrecognized charge.,0.8,,False,,400,45,0
+T027,other,urgent,The customer states that nothing is working and it is affecting their business.,0.4,,True,low confidence (0.40); category is 'other',391,59,0
+T028,question,low,This is a general account management question.,0.95,"Yes, you can export and download all your data from the account settings page before proceeding with the account closure.",False,,389,76,0
+T029,billing,medium,Changing the billing owner is time-sensitive for account administration.,0.9,,True,sensitive topic: billing owner,395,102,0
+T030,question,low,General usability question about notification settings.,0.85,"Hello! To check your notification settings, navigate to your Account Settings and look for the Notifications tab, where all active alerts are clearly marked with a toggle. Please let us know if you need further assistance.",False,,392,82,0

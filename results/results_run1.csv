@@ -1,0 +1,31 @@
+ticket_id,category,priority,priority_reason,confidence,reply_draft,escalate_to_human,escalation_reason,input_tokens,output_tokens,thinking_tokens
+T001,bug,high,A core feature is broken after the latest update.,0.95,,False,,289,56,0
+T002,billing,high,A billing error affects money and requires investigation.,1.0,,False,,287,54,0
+T003,feature_request,low,This is a request for a new feature rather than a critical issue.,1.0,,False,,281,61,0
+T004,question,low,This is a general how-to question regarding account access.,1.0,"To reset your account password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email.",False,,280,84,0
+T005,billing,high,A billing-related feature is broken and prevents access to invoices.,0.95,,False,,284,59,0
+T006,question,low,This is a general pre-sales question about our subscription plans.,1.0,"Hello! The Basic plan includes all of our core features for individuals and small teams, while the Pro plan offers advanced features, higher usage limits, and priority support. You can view a full feature breakdown on our pricing page.",False,,283,103,0
+T007,billing,high,A billing error affects money and requires prompt resolution.,0.95,,False,,291,56,0
+T008,feature_request,low,This is a suggestion for a new feature rather than a critical issue.,1.0,,False,,283,61,0
+T009,question,low,This is a general how-to question regarding profile settings.,1.0,You can update your email address by going to your Account Settings page and editing your profile information.,False,,283,76,0
+T010,bug,urgent,Multiple users are completely blocked from using the product due to the login screen freezing.,0.95,,False,,287,62,0
+T011,billing,high,A billing error affects money and unauthorized charges require immediate attention.,0.95,,False,,287,46,0
+T012,feature_request,low,This is a request for a new feature rather than an urgent problem.,1.0,,False,,284,61,0
+T013,question,low,This is a general how-to question with no operational impact.,1.0,"We currently support PDF, DOCX, TXT, and PNG formats for document uploads.",False,,281,76,0
+T014,bug,high,A core search feature is broken and failing to return existing records.,0.95,,False,,284,59,0
+T015,billing,medium,Subscription cancellations and refund inquiries are time-sensitive billing matters.,0.95,,True,sensitive topic: refund,285,58,0
+T016,feature_request,low,This is a suggestion for a new feature rather than a critical issue.,1.0,,False,,281,61,0
+T017,question,low,This is a general inquiry about our services with no time-sensitive urgency.,1.0,"Hello! Thank you for reaching out. Yes, we do offer onboarding sessions for new customers to help you get started with our platform. Please let us know if you would like to schedule one.",False,,281,99,0
+T018,bug,urgent,The customer cannot access their workspace at all right before a critical demo.,0.95,,False,,286,60,0
+T019,billing,low,This is a general accounting request for past invoices with no time-sensitive urgency stated.,0.95,,False,,285,63,0
+T020,bug,medium,Slow page load is a performance issue that hinders user experience but has a workaround since it eventually loads.,0.9,,False,,286,65,0
+T021,feature_request,low,This is a general inquiry about a new feature idea.,1.0,,False,,282,58,0
+T022,question,low,This is a general how-to question about the product.,0.95,"To change the time zone used in your reports, navigate to your Account Settings, select Preferences, and update your default time zone there.",False,,283,85,0
+T023,billing,high,A billing error affects customer money and requires investigation.,1.0,,False,,286,55,0
+T024,bug,high,A core feature where user data is not saving correctly constitutes a broken core feature.,0.95,,False,,289,62,0
+T025,feature_request,low,This is a general request for a new integration rather than a critical system issue.,0.95,,False,,283,64,0
+T026,billing,medium,The customer has an inquiry regarding an unrecognized charge.,0.95,,False,,294,56,0
+T027,bug,urgent,The customer reports that nothing is working and it is impacting their business.,0.8,,False,,285,59,0
+T028,question,low,This is a general account management question.,0.95,"Yes, you can export all your data before closing your account by navigating to Settings > Account > Export Data.",False,,283,76,0
+T029,billing,medium,Account access and billing management are time-sensitive administration tasks.,0.9,,False,,289,57,0
+T030,question,low,This is a general usability question about settings with a minor annoyance.,0.8,"Hello! To check your notification settings, navigate to Account Settings > Notifications where enabled alerts are highlighted in blue. Please let us know if you need further assistance.",False,,286,90,0

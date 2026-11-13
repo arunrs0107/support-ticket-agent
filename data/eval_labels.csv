@@ -1,0 +1,11 @@
+ticket_id,category,priority,should_escalate
+T001,bug,high,no
+T004,question,low,no
+T007,billing,high,no
+T008,feature_request,low,no
+T011,billing,high,yes
+T015,billing,medium,yes
+T018,bug,urgent,no
+T026,other,medium,yes
+T027,other,high,yes
+T029,billing,medium,yes

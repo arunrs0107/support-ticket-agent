@@ -1,0 +1,8 @@
+Eval set: 10 tickets
+Category accuracy:   9/10 (90%)
+Priority accuracy:   9/10 (90%)
+Escalation accuracy: 9/10 (90%)
+
+Misses:
+T026: wrong on category, escalation | mine: other/medium/escalate=yes | agent: billing/medium/escalate=False
+T027: wrong on priority | mine: other/high/escalate=yes | agent: other/urgent/escalate=True
